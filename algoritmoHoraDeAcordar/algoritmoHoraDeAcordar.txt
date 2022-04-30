@@ -1,0 +1,14 @@
+INÍCIO
+1- O despertador me acorda,abro os olhos;
+2- Se acordar com disposicao;
+	1-Ao levanatar faço o alogangento;
+	2-Ir ao banheiro fazer as necessidades;
+	3-logo apos ir tomar banho;
+	4-Apos o banho ir tomar cafe e ir trabalhar;
+3-Se nao acordar com disposicao;
+	1-Ao levantar fico sentado na Cama;
+	2-vou diretamente o banheiro e lavo o rosto;
+	3-faz as necessidades essencias;
+	4-vou tomar cafe,e logo depois ir tomar banho;
+	5-Ir trabalhar;
+FIM  
